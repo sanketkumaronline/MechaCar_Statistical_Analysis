@@ -72,9 +72,9 @@ In this study, we will try to quantify how MechaCar performs against its competi
 
 In this test, we are going to analyze the **Highway Fuel Efficiency** of MechaCar and its competitors. Since fuel efficiency among same vehicle class is not expected to be too much different in controlled environment, we would like to compare all competitors at once to look at a bigger picture before deciding if we want to do any further analysis. 
 
-    Null Hypothesis (Ho): The mean of Highway Fuel Efficiency for MechaCar and all other competitors are same.
+* Null Hypothesis (Ho): The mean of Highway Fuel Efficiency for MechaCar and all other competitors are same.
 
-    Alternate Hypothesis (Ha): The mean of Highway Fuel Efficiency for either MechaCar or for at least one other competitor is different from rest of the group.
+* Alternate Hypothesis (Ha): The mean of Highway Fuel Efficiency for either MechaCar or for at least one other competitor is different from rest of the group.
 
 
 We will use **ANOVA** test to see if there is a staistical difference between mean distribution of Highway Fuel Efficiency for MechaCar and mean distribution of Highway Fuel Efficiency for competitors.
@@ -85,9 +85,9 @@ We will need the datasets from different competitors with Highway Fuel Efficienc
 
 In this test, we are going to analyze the **Maintainance Cost** of MechaCar and its competitors. Since Maintenance Cost can vary widely and depends on a number of factors, we will compare with each competitor individually.  
 
-    Null Hypothesis (Ho): There is no statistical difference between Maintenance Cost for MechaCar and its competitor.
+* Null Hypothesis (Ho): There is no statistical difference between Maintenance Cost for MechaCar and its competitor.
 
-    Alternate Hypothesis (Ha): There is a statistical difference between Maintenance Cost for MechaCar and its competitor.
+* Alternate Hypothesis (Ha): There is a statistical difference between Maintenance Cost for MechaCar and its competitor.
 
 We will use **Two-Sampe t-Test** to see if there is a staistical difference between distribution mean of Maintenance Cost for MechaCar and distribution mean of Maintenance Cost for the competitor.
 
